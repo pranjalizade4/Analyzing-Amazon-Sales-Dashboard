@@ -15,7 +15,8 @@ Power Query: For data transformation and preparation.
 Data Sources: Includes CSV files, Excel spreadsheets, and other relevant data sets.
 Getting Started
 Step-by-step instructions on how to download the repository, load the data into Power BI, and access the reports.
-
+# Sceenshot
+https://github.com/pranjalizade4/-Analyzing-Amazon-Sales-Data/blob/main/Screenshot%20(1363).png
 # Features
 Sales Trend Analysis: Visualize sales over time to identify patterns and key seasonal peaks.
 Customer Segmentation: Segment customers based on purchasing behavior to tailor marketing strategies.
